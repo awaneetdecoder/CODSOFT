@@ -1,21 +1,30 @@
-CodSoft Flutter Development Internship
+# CodSoft Flutter Development Internship
+
 This repository contains the projects I completed during my internship at CodSoft. I have successfully completed two tasks using Flutter and Dart.
 
-🚀 Task 1: Quote of the Day App
-A simple and elegant Flutter app that displays daily inspirational quotes. Users can refresh quotes, share them, and save their favorites. The app also features a clean UI with both light and dark modes.
+---
 
-🎥 App Demo
-✅ Task 2: Advanced To-Do List App
-An advanced To-Do list app to manage daily tasks. This app allows users to add, edit, and delete tasks, set priorities (Low, Medium, High), and assign due dates. Completed tasks are automatically moved to a separate "Completed" section. All data is saved locally on the device.
+## 🚀 Task 1: Quote of the Day App
+A simple and elegant Flutter app that displays daily inspirational quotes...
 
-🎥 App Demo
-🛠️ Technologies Used
-Framework: Flutter
+### 🎥 App Demo
+**<-- ADD THE FIRST GIF LINE HERE -->**
+![Quote App Demo](quote_of_the_day_app/demo/demo.gif)
 
-Language: Dart
 
-State Management: Provider
+---
 
-Local Storage: shared_preferences
+## ✅ Task 2: Advanced To-Do List App
+An advanced To-Do list app to manage daily tasks...
 
-UI Packages: google_fonts, flutter_svg, intl
+### 🎥 App Demo
+**<-- ADD THE SECOND GIF LINE HERE -->**
+![To-Do App Demo](to_do_list_app/demo/todo_demo.gif)
+
+
+---
+
+### 🛠️ Technologies Used
+- Framework: Flutter
+- Language: Dart
+...etc
